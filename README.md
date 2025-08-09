@@ -1,5 +1,7 @@
 [🇬🇧 English](./README.md) | [🇷🇺 Русский](./README.ru.md)
 
+<img align="right" src="https://alexgear.com/cdn/shop/files/Chamber-Blue-Leather-Cosplay-Vest-Valorant.jpg?v=1719968463&width=990" alt="GGWoLst Avatar" width="320" />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&duration=3000&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+GGWoLst;DevOps+%2F+SRE+Engineer;Infrastructure+as+Code+%7C+Kubernetes+%7C+CI%2FCD" alt="Typing SVG" />
 </p>
