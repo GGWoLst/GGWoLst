@@ -8,10 +8,13 @@
 
 ## 🛠 Стек технологий
 
-**Infrastructure as Code (IaC):** Terraform · Ansible · Pulumi  
-**CI/CD:** GitHub Actions · GitLab CI · Jenkins · ArgoCD  
-**Мониторинг и Observability:** Prometheus · Grafana · Loki · ELK Stack  
-**Облака и оркестрация:** AWS · GCP · Kubernetes · Docker · Helm
+<table>
+<tr>
+<td style="border: 2px solid #1E90FF; border-radius: 12px; padding: 12px;">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,helm,prometheus,grafana,aws,gcp,linux,python,git,github,vscode" />
+</td>
+</tr>
+</table>
 
 ---
 
