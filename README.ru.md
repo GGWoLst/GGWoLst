@@ -11,7 +11,8 @@
 <table>
 <tr>
 <td style="border: 2px solid #1E90FF; border-radius: 12px; padding: 12px;">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,helm,prometheus,grafana,aws,gcp,linux,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,prometheus,grafana,aws,gcp,linux,freebsd,apple,python,git,github,vscode,go" />
+  <img src="https://github.com/yandex-cloud/icons/raw/main/logo/yandex-cloud.svg" height="48" alt="Yandex Cloud" />
 </td>
 </tr>
 </table>
